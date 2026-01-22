@@ -1,0 +1,26 @@
+ROLL_ID  NAME       ALGO G  AOS  G  KRR  G  PSM  G  PDS  G  TOTAL PERCENT CGPA GRADE
+-------------------------------------------------------------------------------------
+25MCMI22 Arti        85 A+   68 B+   85 A+   76  A   86 A+   400   80.00  8.00  A
+25MCMI42 Neha        82  A   84  A   77  A   88 A+   82  A   413   82.60  8.26  A
+25MCMI33 Aman        84  A   75  A   51  D   84  A   83  A   377   75.40  7.54  A
+25MCMI03 Riya        63  B   85 A+   50  D   68 B+   72 B+   338   67.60  6.76  B+
+25MCMI14 Rohit       73 B+   69 B+   64  B   67 B+   59  C   332   66.40  6.64  B+
+25MCMI05 Neha        66 B+   65 B+   62  B   64  B   70 B+   327   65.40  6.54  B+
+25MCMI06 Kunal       68 B+   63  B   72 B+   40  F   80  A   323   64.60  6.46  B
+25MCMI07 Pooja       82  A   73 B+   39  F   62  B   73 B+   329   65.80  6.58  B+
+======================================================================================
+Class Statistics
+-----------------------------
+Class Average Percentage : 70.97
+Highest Percentage       : 82.60
+Lowest Percentage        : 64.60
+
+Grade Distribution
+O  Grade : 0
+A+ Grade : 0
+A  Grade : 3
+B+ Grade : 4
+B  Grade : 1
+C  Grade : 0
+D  Grade : 0
+F  Grade : 0

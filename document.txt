@@ -1,0 +1,31 @@
+Module 1 : student.h :-
+Defined student and subject data structures to store student and subject details.
+
+Module 2: Validation Module (validation.c, validation.h):-
+checking the inputs like whether given inputs are valid or not, like valid rollnumber, name, duplicates entry.
+
+
+Module 3: main.c :- 
+all the header modules are included in main.c that control the overall flow of the program. It reads the
+input, call validation module perform result calculation with the help of marks and grades modules and then perform statistics 
+and then print the student table table along with the class summary.
+
+
+Module 4: Grade Calculation (grade.h, grade.c):- 
+implementing the grading rules according to the given condition. Based on marks or percentage it
+returns appropriate grade( O, A+, A , B+, B, C, D, F)
+
+Module 5: Marks Summarization or processing module (marks.c, marks.h) :- 
+perform student marks calculation adding minor and major marks to make the
+total subject marks and then using grading module to assign the grades to that marks.
+
+Module 6: File Input Output Module (fileio.c, fileio.h) :- 
+this module takes care of reading student data from file  and writing the student details in
+formatted tabular output to the another result file that is output.txt file.
+
+Module 7: Statistics Module (statistics.c, statistics.h):- 
+all the class level summary calculation is written here. It tracks highest and lowest percentage
+in the class and calculate average percent and count that how many students get fall in which grade Category.
+
+Makefile: used Makefile for the compilation of all the modules at once and create object file of each and links them to generate
+final executable file    i.e here main file target file.
